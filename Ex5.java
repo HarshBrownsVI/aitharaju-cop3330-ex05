@@ -1,4 +1,8 @@
-import java.util.*;
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Sriharsha Aitharaju
+ */
+ import java.util.*;
 public class Ex5 {
 
     public static void main(String[] args)
